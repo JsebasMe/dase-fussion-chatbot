@@ -4,7 +4,7 @@ Chatbot de reglas en Python (Flask) que explica a los clientes que DaSe Fussion 
 
 - **Autores:** Juan Sebastián Mendieta Pineda y Danna Nickol Duarte Duarte (Ingeniería Multimedia, 8.º semestre). Docente: Miguel Eduardo Posada Haddad.
 - **Versión evaluada:** 1.0
-- **Aplicación publicada:** PENDIENTE https://jimil.pythonanywhere.com/
+- **Aplicación publicada:** https://jimil.pythonanywhere.com/
 - **Repositorio:** https://github.com/JsebasMe/dase-fussion-chatbot
 
 ## Instalación desde cero

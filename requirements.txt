@@ -1,0 +1,2 @@
+# Versiones por confirmar con `pip freeze` en el equipo de desarrollo (PENDIENTE: fijar exactas).
+Flask>=3.0,<4

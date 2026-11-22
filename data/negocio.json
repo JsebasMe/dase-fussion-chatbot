@@ -1,0 +1,20 @@
+{
+  "nombre": "DaSe Fussion", "version": "1.0", "whatsapp": "573105805631",
+  "tela": "algodón licrado", "composicion_verificada": null,
+  "area": "58 x 50 cm", "produccion_dias": 3,
+  "precios": {"1": 50000, "2": 90000},
+  "tallas": "Hombre y mujer: S, M, L, XL y XXL. Niño: 2/4, 6/8, 10/12 y 14/16.",
+  "saludo": "¡Hola! Soy el asistente de DaSe Fussion. Aquí la camisa la diseñas tú: estampamos el diseño que imagines, en el lugar y tamaño que quieras. Los diseños que ves en nuestras publicaciones son solo ejemplos para inspirarte. ¿Ya tienes una idea o quieres que te guíe?",
+  "cuidados": [
+    "Lava la camisa al revés.",
+    "Usa agua fría o tibia (máximo 30 °C) y ciclo suave; a mano con agua fría desgasta menos el estampado.",
+    "No uses suavizante.",
+    "Sécala al aire; evita el calor fuerte de la secadora.",
+    "No planches sobre el estampado: si es necesario, plancha por el revés o con una tela encima."
+  ],
+  "politicas": [
+    "Si el error es nuestro (el estampado no coincide con el diseño aprobado o tiene un defecto), lo reponemos o corregimos.",
+    "Antes de estampar te mostramos una vista previa y debes aprobarla.",
+    "Por ser un producto personalizado, no hay cambios por la talla elegida ni por cambio de opinión."
+  ]
+}
